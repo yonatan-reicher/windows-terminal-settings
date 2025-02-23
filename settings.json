@@ -50,28 +50,28 @@
     {
         "defaults": 
         {
-            "colorScheme": "Campbell",
+            "colorScheme": "Dark+",
             "font": 
             {
-                "size": 16
+                "size": 18
             }
         },
         "list": 
         [
             {
-                "colorScheme": "Campbell",
+                "adjustIndistinguishableColors": "never",
                 "commandline": "C:\\tools\\nu\\bin\\nu.exe",
                 "elevate": true,
                 "font": 
                 {
-                    "face": "JetBrainsMono NFM",
-                    "size": 14
+                    "face": "JetBrainsMono NF",
+                    "size": 18
                 },
-                "guid": "{aab79973-318f-43b6-a9bc-b4096493753f}",
+                "guid": "{93b05197-0afe-4d55-bc65-0e26ae98275c}",
                 "hidden": false,
-                "icon": "C:\\tools\\nu\\nu.ico",
-                "name": "Nushell",
-                "source": "nu",
+                "icon": "\ud83d\udc24",
+                "name": "Nushell (Copy)",
+                "padding": "0",
                 "startingDirectory": null
             },
             {
@@ -121,23 +121,6 @@
                 "hidden": true,
                 "name": "Visual Studio Debug Console",
                 "source": "VSDebugConsole"
-            },
-            {
-                "adjustIndistinguishableColors": "never",
-                "colorScheme": "Dark+",
-                "commandline": "C:\\tools\\nu\\bin\\nu.exe",
-                "elevate": true,
-                "font": 
-                {
-                    "face": "JetBrainsMono NF",
-                    "size": 18
-                },
-                "guid": "{93b05197-0afe-4d55-bc65-0e26ae98275c}",
-                "hidden": false,
-                "icon": "\ud83d\udc24",
-                "name": "Nushell (Copy)",
-                "padding": "0",
-                "startingDirectory": null
             }
         ]
     },
